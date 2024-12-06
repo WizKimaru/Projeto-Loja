@@ -1,0 +1,59 @@
+#main{
+    border: 3px solid white;
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+.corpo_main{
+    display: flex;
+}
+.textos_main{
+    display: flex;
+    flex-direction: column;
+    font-family: "Poppins", serif;
+}
+.textos_main h1{
+    color: #F7E6D3;
+    font-size: 68.45px;
+    font-weight: bold;
+}
+.textos_nome{
+    font-size: 30.42px;
+    color: #F7E6D3;
+    font-weight: 300;
+
+}
+.textos_preço{
+    color: #EB1B24;
+    font-size: 45.63px;
+    margin-top: 16.37px;
+}
+.textos_btns{
+    display: flex;
+    gap: 12.93px;
+    margin-top: 27.07px;
+}
+.add_card_button{
+    border-radius: 18.25px;
+    background-color: #EB1B24;
+    padding: 9.89px;
+    border: none;
+    color: #fff;
+    font-size: 12.17px;
+    width: 106.48px;
+    height: 38.03px;
+    font-family: "Poppins", serif;
+}
+.more_details_button{
+    border-radius: 18.25px;
+    padding: 9.89px;
+    background: transparent;
+    border: 1px solid #fff;
+    color: #fff;
+    font-size: 12.17px;
+    width: 106.48px;
+    height: 38.03px;
+    font-family: "Poppins", serif;
+}
