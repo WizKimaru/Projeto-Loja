@@ -45,6 +45,7 @@
     width: 106.48px;
     height: 38.03px;
     font-family: "Poppins", serif;
+    cursor: pointer;
 }
 .more_details_button{
     border-radius: 18.25px;
@@ -56,4 +57,5 @@
     width: 106.48px;
     height: 38.03px;
     font-family: "Poppins", serif;
+    cursor: pointer;
 }
